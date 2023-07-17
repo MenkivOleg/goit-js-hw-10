@@ -1,0 +1,26 @@
+.cat-info {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.cat-info img {
+  max-width: 550px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.cat-info h2,
+.cat-info p {
+  margin: 0;
+  margin-top: 20px;
+  width: 600px;
+}
+
+.loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+}
