@@ -24,3 +24,14 @@
   justify-content: center;
   height: 200px;
 }
+
+.breed-select {
+  width: 240px;
+}
+
+img {
+  display: block;
+  width: 400px;
+  height: auto;
+  margin-right: 15px;
+}
